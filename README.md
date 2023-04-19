@@ -45,11 +45,11 @@ You need an Anaconda (or conda forge) installation before proceding.
 
 If you run the local files, you need to install the dependencies. These are in conda environment files. Depdending on what GPU you have, run the below commands in a shell:
 
- ### NVIDIA GPU:
+ #### NVIDIA GPU:
 ```shell
 conda env create - f cuda_environment.yml
 ```
- ### AMD GPU:
+ #### AMD GPU:
 ```shell
 conda env create -f rocm_environment.yml
 ```
