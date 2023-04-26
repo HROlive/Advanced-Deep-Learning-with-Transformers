@@ -70,4 +70,4 @@ jupyter notebook
 
 The certificate for the course can be found bellow:
 
-["Advanced Deep Learning with Transformers" - EuroCC National Competence Centre Sweden]() (Issued On: April 2023)
+["Advanced Deep Learning with Transformers" - EuroCC National Competence Centre Sweden](https://github.com/HROlive/Advanced-Deep-Learning-with-Transformers/blob/main/images/certificate.pdf) (Issued On: April 2023)
