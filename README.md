@@ -14,7 +14,7 @@
 
 In recent years, Graph Neural Networks (GNNs) and Transformers have led to numerous breakthrough achievements in a variety of fields such as Natural Language Processing (NLP), chemistry, and physics. By doing away with the need for fixed-size inputs, these architectures significantly extend the scope of problems to which deep learning can be applied.
 
-This workshop will take you from the representation of graphs and finite sets as inputs for neural networks to the implementation of full GNNs for a variety of tasks. You will learn about the central concepts used in GNNs in a hands-on setting using Jupyter Notebooks and a series of coding exercises. While the workshop will use problems from the field of chemistry as an example for applications, the skills you learn can be transferred to any domain where finite set or graph-based representations of data are appropriate. From GNNs, we will make the leap to Transformer architectures, and explain the conceptual ties between the two.
+This workshop will take you from the representation of graphs and finite sets as inputs for neural networks to the implementation of full GNNs for a variety of tasks. You will learn about the central concepts used in GNNs in a hands-on setting using Jupyter Notebooks and a series of coding exercises. While the workshop will use problems from the field of chemistry as an example for applications, the skills you learn can be transferred to any domain where finite sets or graph-based representations of data are appropriate. From GNNs, we will make the leap to Transformer architectures, and explain the conceptual ties between the two.
 
 <a name="information"></a>
 ## Information
@@ -35,14 +35,14 @@ More detailed information and links for the course can be found on the [course w
 The training material(slides, recordings, notebooks, etc) can be found on [this website](https://enccs.github.io/gnn_transformers/).
 
 The notebooks and exercises can be found in this repository and are organized in their respective folders, one for each session of the workshop.
-This repository contains the notebooks for the ENCCS course on Graph Neural Networks and Transformers. There are two version of the notebooks, one intended to be run on Google Colab (under the colab directory) and one intended to be run locally (under the session_1 to session_4 directories).
+This repository contains the notebooks for the ENCCS course on Graph Neural Networks and Transformers. There are two versions of the notebooks, one intended to be run on Google Colab (under the colab directory) and one intended to be run locally (under the session_1 to session_4 directories).
 
 <a name="dependencies"></a>
 ## Installing the dependencies
 
-You need an Anaconda (or conda forge) installation before proceding.
+You need an Anaconda (or conda forge) installation before proceeding.
 
-If you run the local files, you need to install the dependencies. These are in conda environment files. Depdending on what GPU you have, run the below commands in a shell:
+If you run the local files, you need to install the dependencies. These are in conda environment files. Depending on what GPU you have, run the below commands in a shell:
 
  #### NVIDIA GPU:
 ```shell
@@ -68,6 +68,6 @@ jupyter notebook
 <a name="certificate"></a>
 ## Certificate
 
-The certificate for the course can be found bellow:
+The certificate for the course can be found below:
 
 ["Advanced Deep Learning with Transformers" - EuroCC National Competence Centre Sweden](https://github.com/HROlive/Advanced-Deep-Learning-with-Transformers/blob/main/images/certificate.pdf) (Issued On: April 2023)
